@@ -14,4 +14,4 @@
 ## ССЫЛКИ
 * [Мой профиль на GitHub](https://github.com/GoStreet68А)
 
-![Скриншот аккаунта github]([images\image.png])
+![Скриншот аккаунта github]([images/image.png])
